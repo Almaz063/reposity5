@@ -1,0 +1,47 @@
+#q1
+{
+    color: red;
+    background-color: black;
+    text-indent: 50px;
+    text-align: center;
+}
+
+#q2
+{
+    background-color: chartreuse;
+    /* letter-spacing: 10px;
+    word-spacing: 50px; */
+    white-space: pre;
+    text-indent: 50px;
+    text-align: center;
+
+}
+#q3
+{
+    background-color: chartreuse;
+    /* letter-spacing: 10px;
+    word-spacing: 50px; */
+    text-transform: capitalize;  
+}
+#q4
+    {
+        background-color: chartreuse;
+    /* letter-spacing: 10px;
+    word-spacing: 50px; */
+    text-transform: lowercase; 
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: blue;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 20px;
+    font-family: monospace;
+    }
+
+    
+
+#w1
+{
+    background-color: coral;
+    font-family: 'Raleway', sans-serif;
+}
